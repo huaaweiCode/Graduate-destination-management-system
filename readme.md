@@ -1,10 +1,5 @@
 # 毕业生去向管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**毕业生2** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -71,11 +66,4 @@
 
 [点击播放视频，视频位于文章最后](输入链接)
 
-## 6、获取方式
-
-扫描下方，回复关键词  ：**毕业生2** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
