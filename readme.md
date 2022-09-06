@@ -62,8 +62,5 @@
 
 ![学生-招聘详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207200032455.jpg)
 
-## 5、视频演示
-
-[点击播放视频，视频位于文章最后](输入链接)
 
 
